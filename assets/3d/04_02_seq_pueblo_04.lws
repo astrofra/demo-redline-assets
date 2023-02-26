@@ -1,0 +1,2012 @@
+LWSC
+3
+
+FirstFrame 1
+LastFrame 30
+FrameStep 1
+PreviewFirstFrame 0
+PreviewLastFrame 224
+PreviewFrameStep 1
+CurrentFrame 224
+FramesPerSecond 30
+
+LoadObjectLayer 1 mesh_pueblo_show.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  2
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  2
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  2
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_pueblo_trail.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Key 0 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  3
+  Key 5.599998 0 0 0 0 0 0 0 0
+  Key 5.599998 8.0666666 0 0 0 0 0 0 0
+  Key 5.599998 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 -75.079697 0
+  Key -75.082283 8.0666666 0 0 0 0 -70.97612 -8.2121134 0
+  Key -79.188232 9 0 0 0 0 -79.185791 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  3
+  Key 1 0 0 0 0 0 0 0.34321949 0
+  Key 1.3432313 8.0666666 0 0 0 0 0.32446042 0.037540875 0
+  Key 1.3620013 9 0 0 0 0 0.36199012 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  3
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Key 1 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  3
+  Key 1 0 0 0 0 0 0 0.71867198 0
+  Key 1.7186967 8.0666666 0 0 0 0 0.67939198 0.078607336 0
+  Key 1.7579993 9 0 0 0 0 0.75797594 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 387
+Plugin DisplacementHandler 1 LW_MorphMixer
+23
+1
+{ Group
+  23
+  "Miscellaneous"
+}
+{ MorfForm
+  "m02"
+  0
+  { Envelope
+    3
+    Key 0 0 3 0 0 0 0 0.99991632 0
+    Key 1 1.66 3 0 0 0 0 0 0
+    Key 0 2.3199999 3 0 0 0 -0.9997896 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m03"
+  0
+  { Envelope
+    4
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0.71551722 0.28448275 0
+    Key 1 2.3199999 3 0 0 0 0 0 0
+    Key 0 2.98 3 0 0 0 -0.9997896 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m04"
+  0
+  { Envelope
+    4
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 2.3199999 3 0 0 0 0.5 0.5 0
+    Key 1 2.98 3 0 0 0 0 0 0
+    Key 0 3.1800001 3 0 0 0 -0.99930602 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m05"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 2.98 3 0 0 0 0.86842108 0.13157895 0
+    Key 1 3.1800001 3 0 0 0 0 0 0
+    Key 0 3.2 3 0 0 0 -0.25 -0.75 0
+    Key 0 8.9799995 3 0 0 0 0 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m06"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.1800001 3 0 0 0 0.94999999 0.050000001 0
+    Key 1 3.2 3 0 0 0 0 0 0
+    Key 0 3.26 3 0 0 0 0.99826688 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m07"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.2 3 0 0 0 0.96249998 0 0
+    Key 1 3.26 3 0 0 0 0 0.05882353 0
+    Key 0 3.3599999 3 0 0 0 0.99861306 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m08"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.26 3 0 0 0 0.94117647 0 0
+    Key 1 3.3599999 3 0 0 0 0 0 0
+    Key 0 3.3800001 3 0 0 0 -0.039724138 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m09"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.3599999 3 0 0 0 0.98837209 0 0
+    Key 1 3.3800001 3 0 0 0 0.059586208 0 0
+    Key 0 3.5599999 3 0 0 0 -0.99922901 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m10"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.3800001 3 0 0 0 0.90526319 0.094736844 0
+    Key 1 3.5599999 3 0 0 0 0 0 0
+    Key 0 3.5799999 3 0 0 0 -0.0099310344 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m11"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.5599999 3 0 0 0 0.98958331 0 0
+    Key 1 3.5799999 3 0 0 0 0 0 0
+    Key 0 3.7 3 0 0 0 -0.99884391 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m12"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.5799999 3 0 0 0 0.94117647 0.05882353 0
+    Key 1 3.7 3 0 0 0 0 0 0
+    Key 0 4 3 0 0 0 -0.99953723 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m13"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.7 3 0 0 0 0.87179488 0.12820514 0
+    Key 1 4 3 0 0 0 0 0 0
+    Key 0 4.0799999 3 0 0 0 -0.99826688 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m14"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4 3 0 0 0 0.96694213 0.03305785 0
+    Key 1 4.0799999 3 0 0 0 0 0 0
+    Key 0 4.1399999 3 0 0 0 -0.99769056 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m15"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.0799999 3 0 0 0 0.97580647 0.024193548 0
+    Key 1 4.1399999 3 0 0 0 0 0 0
+    Key 0 4.2600002 3 0 0 0 -0.99884391 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m16"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.1399999 3 0 0 0 0.95384616 0.046153847 0
+    Key 1 4.2600002 3 0 0 0 0 0 0
+    Key 0 4.5999999 3 0 0 0 -0.99959165 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m17"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.2600002 3 0 0 0 0.88435376 0.11564626 0
+    Key 1 4.5999999 3 0 0 0 0 0 0
+    Key 0 4.9400001 3 0 0 0 -0.99959165 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m18"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.5999999 3 0 0 0 0.89634144 0.10365853 0
+    Key 1 4.9400001 3 0 0 0 0 0 0
+    Key 0 5.2600002 3 0 0 0 -0.99956614 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m19"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.9400001 3 0 0 0 0.91111112 0.088888891 0
+    Key 1 5.2600002 3 0 0 0 0 0 0
+    Key 0 5.3400002 3 0 0 0 -0.99826688 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m20"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.2600002 3 0 0 0 0.97826087 0.021739131 0
+    Key 1 5.3400002 3 0 0 0 0 0 0
+    Key 0 5.3600001 3 0 0 0 -0.0099310344 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m21"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.3400002 3 0 0 0 0.99459457 0 0
+    Key 1 5.3600001 3 0 0 0 0.049655173 0 0
+    Key 0 5.52 3 0 0 0 -0.99913269 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m22"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.3600001 3 0 0 0 0.9585492 0.041450776 0
+    Key 1 5.52 3 0 0 0 0 0 0
+    Key 0 6.3000002 3 0 0 0 -0.99982196 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m23"
+  0.56790125
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.52 3 0 0 0 0.83189654 0.16810344 0
+    Key 1 6.3000002 3 0 0 0 0 0 0
+    Key 0 9 3 0 0 0 -0.99994856 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m24"
+  0.43209878
+  { Envelope
+    4
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 6.3000002 3 0 0 0 0.63215262 0.36784741 0
+    Key 1 9 3 0 0 0 0.99994856 0 0
+    Behaviors 1 1
+  }
+}
+EndPlugin
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_pueblo_trail.lwo
+ShowObject 6 3
+SchematicPosition 0.600000 -0.400000
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  3
+  Key 15 0 0 0 0 0 0 -5.8877082 0
+  Key 9.1120892 8.0666666 0 0 0 0 -5.565908 -0.64398932 0
+  Key 8.790103 9 0 0 0 0 -6.2097054 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  3
+  Key 7.1084619 0 0 0 0 0 0 0 0
+  Key 7.1084619 8.0666666 0 0 0 0 0 0 0
+  Key 7.1084619 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  3
+  Key 361.38235 0 0 0 0 0 0 -652.18323 0
+  Key -290.82333 8.0666666 0 0 0 0 -616.53729 -71.334892 0
+  Key -326.48984 9 0 0 0 0 -687.85095 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Key 0 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Key 0 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Key 0 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  3
+  Key 0.52399993 0 0 0 0 0 0 0.9670791 0
+  Key 1.4911124 8.0666666 0 0 0 0 0.91422218 0.10577778 0
+  Key 1.5439999 9 0 0 0 0 1.0199685 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  3
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Key 1 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  3
+  Key 2.3120003 0 0 0 0 0 0 0 0
+  Key 2.3120003 8.0666666 0 0 0 0 0 0 0
+  Key 2.3120003 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 414
+Plugin DisplacementHandler 1 LW_MorphMixer
+23
+1
+{ Group
+  23
+  "Miscellaneous"
+}
+{ MorfForm
+  "m02"
+  0
+  { Envelope
+    3
+    Key 0 0 3 0 0 0 0 0.99991632 0
+    Key 1 1.66 3 0 0 0 0 0 0
+    Key 0 2.3199999 3 0 0 0 -0.9997896 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m03"
+  0
+  { Envelope
+    4
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0.71551722 0.28448275 0
+    Key 1 2.3199999 3 0 0 0 0 0 0
+    Key 0 2.98 3 0 0 0 -0.9997896 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m04"
+  0
+  { Envelope
+    4
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 2.3199999 3 0 0 0 0.5 0.5 0
+    Key 1 2.98 3 0 0 0 0 0 0
+    Key 0 3.1800001 3 0 0 0 -0.99930602 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m05"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 2.98 3 0 0 0 0.86842108 0.13157895 0
+    Key 1 3.1800001 3 0 0 0 0 0 0
+    Key 0 3.2 3 0 0 0 -0.25 -0.75 0
+    Key 0 8.9799995 3 0 0 0 0 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m06"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.1800001 3 0 0 0 0.94999999 0.050000001 0
+    Key 1 3.2 3 0 0 0 0 0 0
+    Key 0 3.26 3 0 0 0 0.99826688 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m07"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.2 3 0 0 0 0.96249998 0 0
+    Key 1 3.26 3 0 0 0 0 0.05882353 0
+    Key 0 3.3599999 3 0 0 0 0.99861306 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m08"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.26 3 0 0 0 0.94117647 0 0
+    Key 1 3.3599999 3 0 0 0 0 0 0
+    Key 0 3.3800001 3 0 0 0 -0.039724138 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m09"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.3599999 3 0 0 0 0.98837209 0 0
+    Key 1 3.3800001 3 0 0 0 0.059586208 0 0
+    Key 0 3.5599999 3 0 0 0 -0.99922901 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m10"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.3800001 3 0 0 0 0.90526319 0.094736844 0
+    Key 1 3.5599999 3 0 0 0 0 0 0
+    Key 0 3.5799999 3 0 0 0 -0.0099310344 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m11"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.5599999 3 0 0 0 0.98958331 0 0
+    Key 1 3.5799999 3 0 0 0 0 0 0
+    Key 0 3.7 3 0 0 0 -0.99884391 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m12"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.5799999 3 0 0 0 0.94117647 0.05882353 0
+    Key 1 3.7 3 0 0 0 0 0 0
+    Key 0 4 3 0 0 0 -0.99953723 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m13"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.7 3 0 0 0 0.87179488 0.12820514 0
+    Key 1 4 3 0 0 0 0 0 0
+    Key 0 4.0799999 3 0 0 0 -0.99826688 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m14"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4 3 0 0 0 0.96694213 0.03305785 0
+    Key 1 4.0799999 3 0 0 0 0 0 0
+    Key 0 4.1399999 3 0 0 0 -0.99769056 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m15"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.0799999 3 0 0 0 0.97580647 0.024193548 0
+    Key 1 4.1399999 3 0 0 0 0 0 0
+    Key 0 4.2600002 3 0 0 0 -0.99884391 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m16"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.1399999 3 0 0 0 0.95384616 0.046153847 0
+    Key 1 4.2600002 3 0 0 0 0 0 0
+    Key 0 4.5999999 3 0 0 0 -0.99959165 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m17"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.2600002 3 0 0 0 0.88435376 0.11564626 0
+    Key 1 4.5999999 3 0 0 0 0 0 0
+    Key 0 4.9400001 3 0 0 0 -0.99959165 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m18"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.5999999 3 0 0 0 0.89634144 0.10365853 0
+    Key 1 4.9400001 3 0 0 0 0 0 0
+    Key 0 5.2600002 3 0 0 0 -0.99956614 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m19"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.9400001 3 0 0 0 0.91111112 0.088888891 0
+    Key 1 5.2600002 3 0 0 0 0 0 0
+    Key 0 5.3400002 3 0 0 0 -0.99826688 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m20"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.2600002 3 0 0 0 0.97826087 0.021739131 0
+    Key 1 5.3400002 3 0 0 0 0 0 0
+    Key 0 5.3600001 3 0 0 0 -0.0099310344 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m21"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.3400002 3 0 0 0 0.99459457 0 0
+    Key 1 5.3600001 3 0 0 0 0.049655173 0 0
+    Key 0 5.52 3 0 0 0 -0.99913269 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m22"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.3600001 3 0 0 0 0.9585492 0.041450776 0
+    Key 1 5.52 3 0 0 0 0 0 0
+    Key 0 6.3000002 3 0 0 0 -0.99982196 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m23"
+  0.56790125
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.52 3 0 0 0 0.83189654 0.16810344 0
+    Key 1 6.3000002 3 0 0 0 0 0 0
+    Key 0 9 3 0 0 0 -0.99994856 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m24"
+  0.43209878
+  { Envelope
+    4
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 6.3000002 3 0 0 0 0.63215262 0.36784741 0
+    Key 1 9 3 0 0 0 0.99994856 0 0
+    Behaviors 1 1
+  }
+}
+EndPlugin
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_pueblo_trail.lwo
+ShowObject 6 3
+SchematicPosition 0.600000 -0.400000
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  3
+  Key -0.95405465 0 0 0 0 0 0 0 0
+  Key -0.95405465 8.0666666 0 0 0 0 0 0 0
+  Key -0.95405465 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  3
+  Key 28.49999 0 0 0 0 0 0 0 0
+  Key 28.49999 8.0666666 0 0 0 0 0 0 0
+  Key 28.49999 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 -168.93942 0
+  Key -168.94524 8.0666666 0 0 0 0 -159.70581 -18.478359 0
+  Key -178.18417 9 0 0 0 0 -178.17868 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Key 0 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Key 0 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  3
+  Key -3.1415925 0 0 0 0 0 0 0 0
+  Key -3.1415925 8.0666666 0 0 0 0 0 0 0
+  Key -3.1415925 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  3
+  Key 0.62000024 0 0 0 0 0 0 0.62765342 0
+  Key 1.2476753 8.0666666 0 0 0 0 0.59334821 0.068651855 0
+  Key 1.2820003 9 0 0 0 0 0.66197962 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  3
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Key 1 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  3
+  Key 1 0 0 0 0 0 0 0.7983138 0
+  Key 1.7983413 8.0666666 0 0 0 0 0.75468093 0.087318458 0
+  Key 1.8419994 9 0 0 0 0 0.84197342 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 411
+Plugin DisplacementHandler 1 LW_MorphMixer
+23
+1
+{ Group
+  23
+  "Miscellaneous"
+}
+{ MorfForm
+  "m02"
+  0
+  { Envelope
+    3
+    Key 0 0 3 0 0 0 0 0.99991632 0
+    Key 1 1.66 3 0 0 0 0 0 0
+    Key 0 2.3199999 3 0 0 0 -0.9997896 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m03"
+  0
+  { Envelope
+    4
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0.71551722 0.28448275 0
+    Key 1 2.3199999 3 0 0 0 0 0 0
+    Key 0 2.98 3 0 0 0 -0.9997896 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m04"
+  0
+  { Envelope
+    4
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 2.3199999 3 0 0 0 0.5 0.5 0
+    Key 1 2.98 3 0 0 0 0 0 0
+    Key 0 3.1800001 3 0 0 0 -0.99930602 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m05"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 2.98 3 0 0 0 0.86842108 0.13157895 0
+    Key 1 3.1800001 3 0 0 0 0 0 0
+    Key 0 3.2 3 0 0 0 -0.25 -0.75 0
+    Key 0 8.9799995 3 0 0 0 0 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m06"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.1800001 3 0 0 0 0.94999999 0.050000001 0
+    Key 1 3.2 3 0 0 0 0 0 0
+    Key 0 3.26 3 0 0 0 0.99826688 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m07"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.2 3 0 0 0 0.96249998 0 0
+    Key 1 3.26 3 0 0 0 0 0.05882353 0
+    Key 0 3.3599999 3 0 0 0 0.99861306 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m08"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.26 3 0 0 0 0.94117647 0 0
+    Key 1 3.3599999 3 0 0 0 0 0 0
+    Key 0 3.3800001 3 0 0 0 -0.039724138 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m09"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.3599999 3 0 0 0 0.98837209 0 0
+    Key 1 3.3800001 3 0 0 0 0.059586208 0 0
+    Key 0 3.5599999 3 0 0 0 -0.99922901 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m10"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.3800001 3 0 0 0 0.90526319 0.094736844 0
+    Key 1 3.5599999 3 0 0 0 0 0 0
+    Key 0 3.5799999 3 0 0 0 -0.0099310344 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m11"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.5599999 3 0 0 0 0.98958331 0 0
+    Key 1 3.5799999 3 0 0 0 0 0 0
+    Key 0 3.7 3 0 0 0 -0.99884391 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m12"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.5799999 3 0 0 0 0.94117647 0.05882353 0
+    Key 1 3.7 3 0 0 0 0 0 0
+    Key 0 4 3 0 0 0 -0.99953723 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m13"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.7 3 0 0 0 0.87179488 0.12820514 0
+    Key 1 4 3 0 0 0 0 0 0
+    Key 0 4.0799999 3 0 0 0 -0.99826688 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m14"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4 3 0 0 0 0.96694213 0.03305785 0
+    Key 1 4.0799999 3 0 0 0 0 0 0
+    Key 0 4.1399999 3 0 0 0 -0.99769056 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m15"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.0799999 3 0 0 0 0.97580647 0.024193548 0
+    Key 1 4.1399999 3 0 0 0 0 0 0
+    Key 0 4.2600002 3 0 0 0 -0.99884391 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m16"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.1399999 3 0 0 0 0.95384616 0.046153847 0
+    Key 1 4.2600002 3 0 0 0 0 0 0
+    Key 0 4.5999999 3 0 0 0 -0.99959165 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m17"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.2600002 3 0 0 0 0.88435376 0.11564626 0
+    Key 1 4.5999999 3 0 0 0 0 0 0
+    Key 0 4.9400001 3 0 0 0 -0.99959165 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m18"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.5999999 3 0 0 0 0.89634144 0.10365853 0
+    Key 1 4.9400001 3 0 0 0 0 0 0
+    Key 0 5.2600002 3 0 0 0 -0.99956614 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m19"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.9400001 3 0 0 0 0.91111112 0.088888891 0
+    Key 1 5.2600002 3 0 0 0 0 0 0
+    Key 0 5.3400002 3 0 0 0 -0.99826688 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m20"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.2600002 3 0 0 0 0.97826087 0.021739131 0
+    Key 1 5.3400002 3 0 0 0 0 0 0
+    Key 0 5.3600001 3 0 0 0 -0.0099310344 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m21"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.3400002 3 0 0 0 0.99459457 0 0
+    Key 1 5.3600001 3 0 0 0 0.049655173 0 0
+    Key 0 5.52 3 0 0 0 -0.99913269 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m22"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.3600001 3 0 0 0 0.9585492 0.041450776 0
+    Key 1 5.52 3 0 0 0 0 0 0
+    Key 0 6.3000002 3 0 0 0 -0.99982196 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m23"
+  0.56790125
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.52 3 0 0 0 0.83189654 0.16810344 0
+    Key 1 6.3000002 3 0 0 0 0 0 0
+    Key 0 9 3 0 0 0 -0.99994856 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m24"
+  0.43209878
+  { Envelope
+    4
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 6.3000002 3 0 0 0 0.63215262 0.36784741 0
+    Key 1 9 3 0 0 0 0.99994856 0 0
+    Behaviors 1 1
+  }
+}
+EndPlugin
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_pueblo_trail.lwo
+ShowObject 6 3
+SchematicPosition 0.600000 -0.400000
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  3
+  Key -1.1675421 0 0 0 0 0 0 10.208587 0
+  Key 9.0413961 8.0666666 0 0 0 0 9.6506233 1.116601 0
+  Key 9.5996819 9 0 0 0 0 10.766891 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  3
+  Key 23.300009 0 0 0 0 0 0 -5.9731297 0
+  Key 17.326674 8.0666666 0 0 0 0 -5.6466608 -0.65333265 0
+  Key 17.000015 9 0 0 0 0 -6.299799 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  3
+  Key -185.38908 0 0 0 0 0 0 38.834599 0
+  Key -146.55315 8.0666666 0 0 0 0 36.712044 4.2476745 0
+  Key -144.42937 9 0 0 0 0 40.958454 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  3
+  Key 0.148353 0 0 0 0 0 0 0 0
+  Key 0.148353 8.0666666 0 0 0 0 0 0 0
+  Key 0.148353 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Key 0 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  3
+  Key 3.1241386 0 0 0 0 0 0 0 0
+  Key 3.1241386 8.0666666 0 0 0 0 0 0 0
+  Key 3.1241386 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  3
+  Key 1.3620013 0 0 0 0 0 0 0.55369914 0
+  Key 1.9157195 8.0666666 0 0 0 0 0.52343595 0.060562838 0
+  Key 1.9460001 9 0 0 0 0 0.5839808 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  3
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Key 1 9 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  3
+  Key 1.7579993 0 0 0 0 0 0 -0.94622129 0
+  Key 0.81174541 8.0666666 0 0 0 0 -0.89450437 -0.10349637 0
+  Key 0.75999856 9 0 0 0 0 -0.99796993 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 246
+Plugin DisplacementHandler 1 LW_MorphMixer
+23
+1
+{ Group
+  23
+  "Miscellaneous"
+}
+{ MorfForm
+  "m02"
+  0
+  { Envelope
+    3
+    Key 0 0 3 0 0 0 0 0.99991632 0
+    Key 1 1.66 3 0 0 0 0 0 0
+    Key 0 2.3199999 3 0 0 0 -0.9997896 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m03"
+  0
+  { Envelope
+    4
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0.71551722 0.28448275 0
+    Key 1 2.3199999 3 0 0 0 0 0 0
+    Key 0 2.98 3 0 0 0 -0.9997896 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m04"
+  0
+  { Envelope
+    4
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 2.3199999 3 0 0 0 0.5 0.5 0
+    Key 1 2.98 3 0 0 0 0 0 0
+    Key 0 3.1800001 3 0 0 0 -0.99930602 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m05"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 2.98 3 0 0 0 0.86842108 0.13157895 0
+    Key 1 3.1800001 3 0 0 0 0 0 0
+    Key 0 3.2 3 0 0 0 -0.25 -0.75 0
+    Key 0 8.9799995 3 0 0 0 0 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m06"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.1800001 3 0 0 0 0.94999999 0.050000001 0
+    Key 1 3.2 3 0 0 0 0 0 0
+    Key 0 3.26 3 0 0 0 0.99826688 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m07"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.2 3 0 0 0 0.96249998 0 0
+    Key 1 3.26 3 0 0 0 0 0.05882353 0
+    Key 0 3.3599999 3 0 0 0 0.99861306 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m08"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.26 3 0 0 0 0.94117647 0 0
+    Key 1 3.3599999 3 0 0 0 0 0 0
+    Key 0 3.3800001 3 0 0 0 -0.039724138 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m09"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.3599999 3 0 0 0 0.98837209 0 0
+    Key 1 3.3800001 3 0 0 0 0.059586208 0 0
+    Key 0 3.5599999 3 0 0 0 -0.99922901 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m10"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.3800001 3 0 0 0 0.90526319 0.094736844 0
+    Key 1 3.5599999 3 0 0 0 0 0 0
+    Key 0 3.5799999 3 0 0 0 -0.0099310344 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m11"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.5599999 3 0 0 0 0.98958331 0 0
+    Key 1 3.5799999 3 0 0 0 0 0 0
+    Key 0 3.7 3 0 0 0 -0.99884391 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m12"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.5799999 3 0 0 0 0.94117647 0.05882353 0
+    Key 1 3.7 3 0 0 0 0 0 0
+    Key 0 4 3 0 0 0 -0.99953723 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m13"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 3.7 3 0 0 0 0.87179488 0.12820514 0
+    Key 1 4 3 0 0 0 0 0 0
+    Key 0 4.0799999 3 0 0 0 -0.99826688 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m14"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4 3 0 0 0 0.96694213 0.03305785 0
+    Key 1 4.0799999 3 0 0 0 0 0 0
+    Key 0 4.1399999 3 0 0 0 -0.99769056 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m15"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.0799999 3 0 0 0 0.97580647 0.024193548 0
+    Key 1 4.1399999 3 0 0 0 0 0 0
+    Key 0 4.2600002 3 0 0 0 -0.99884391 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m16"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.1399999 3 0 0 0 0.95384616 0.046153847 0
+    Key 1 4.2600002 3 0 0 0 0 0 0
+    Key 0 4.5999999 3 0 0 0 -0.99959165 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m17"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.2600002 3 0 0 0 0.88435376 0.11564626 0
+    Key 1 4.5999999 3 0 0 0 0 0 0
+    Key 0 4.9400001 3 0 0 0 -0.99959165 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m18"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.5999999 3 0 0 0 0.89634144 0.10365853 0
+    Key 1 4.9400001 3 0 0 0 0 0 0
+    Key 0 5.2600002 3 0 0 0 -0.99956614 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m19"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 4.9400001 3 0 0 0 0.91111112 0.088888891 0
+    Key 1 5.2600002 3 0 0 0 0 0 0
+    Key 0 5.3400002 3 0 0 0 -0.99826688 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m20"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.2600002 3 0 0 0 0.97826087 0.021739131 0
+    Key 1 5.3400002 3 0 0 0 0 0 0
+    Key 0 5.3600001 3 0 0 0 -0.0099310344 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m21"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.3400002 3 0 0 0 0.99459457 0 0
+    Key 1 5.3600001 3 0 0 0 0.049655173 0 0
+    Key 0 5.52 3 0 0 0 -0.99913269 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m22"
+  0
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.3600001 3 0 0 0 0.9585492 0.041450776 0
+    Key 1 5.52 3 0 0 0 0 0 0
+    Key 0 6.3000002 3 0 0 0 -0.99982196 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m23"
+  0.56790125
+  { Envelope
+    5
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 5.52 3 0 0 0 0.83189654 0.16810344 0
+    Key 1 6.3000002 3 0 0 0 0 0 0
+    Key 0 9 3 0 0 0 -0.99994856 0 0
+    Behaviors 1 1
+  }
+}
+{ MorfForm
+  "m24"
+  0.43209878
+  { Envelope
+    4
+    Key 0 0 3 0 0 0 0 0 0
+    Key 0 1.66 3 0 0 0 0 0 0
+    Key 0 6.3000002 3 0 0 0 0.63215262 0.36784741 0
+    Key 1 9 3 0 0 0 0.99994856 0 0
+    Behaviors 1 1
+  }
+}
+EndPlugin
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_ufo.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  3
+  Key 0.19389009 0 0 0 0 0 0 0 0
+  Key 0.19389009 8.0666666 0 0 0 0 0 0 0
+  Key 0.19389009 8.5333338 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 1
+{ Envelope
+  3
+  Key 9.3557892 0 0 0 0 0 0 9.1337719 0
+  Key 18.489876 8.0666666 0 0 0 0 8.6345663 0.49952036 0
+  Key 18.489876 8.5333338 0 0 0 0 9.1337891 0 0
+  Behaviors 1 5
+}
+Channel 2
+{ Envelope
+  3
+  Key -146.95531 0 0 0 0 0 0 449.98453 0
+  Key 303.04471 8.0666666 0 0 0 0 425.39063 24.609375 0
+  Key 303.04471 8.5333338 0 0 0 0 449.98538 0 0
+  Behaviors 1 5
+}
+Channel 3
+{ Envelope
+  2
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Key 0 8.5333338 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 4
+{ Envelope
+  2
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Key 0 8.5333338 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 5
+{ Envelope
+  2
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Key 0 8.5333338 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 6
+{ Envelope
+  2
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Key 1 8.5333338 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 7
+{ Envelope
+  2
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Key 1 8.5333338 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 8
+{ Envelope
+  2
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Key 1 8.5333338 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+
+LockedChannels 6
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_ufo.lwo
+ShowObject 6 3
+SchematicPosition 0.600000 -0.400000
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  3
+  Key -5.8955002 0 0 0 0 0 0 0 0
+  Key -5.8955002 7.4666667 0 0 0 0 0 0 0
+  Key -5.8955002 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 1
+{ Envelope
+  3
+  Key 12.019897 0 0 0 0 0 0 7.6114531 0
+  Key 19.631634 7.4666667 0 0 0 0 8.0520477 0.64703953 0
+  Key 20.718985 8.0666666 0 0 0 0 1.0868477 0 0
+  Behaviors 1 5
+}
+Channel 2
+{ Envelope
+  3
+  Key -149.61942 0 0 0 0 0 0 449.15836 0
+  Key 299.55566 7.4666667 0 0 0 0 475.15823 38.182358 0
+  Key 363.72116 8.0666666 0 0 0 0 64.135803 0 0
+  Behaviors 1 5
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_ufo.lwo
+ShowObject 6 3
+SchematicPosition 1.200000 -0.800000
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  3
+  Key 6.2832999 0 0 0 0 0 0 0 0
+  Key 6.2832999 7.4666667 0 0 0 0 0 0 0
+  Key 6.2832999 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 1
+{ Envelope
+  3
+  Key 12.019897 0 0 0 0 0 0 8.3725996 0
+  Key 20.392809 7.4666667 0 0 0 0 8.8572531 0.71174353 0
+  Key 21.588894 8.0666666 0 0 0 0 1.1955315 0 0
+  Behaviors 1 5
+}
+Channel 2
+{ Envelope
+  3
+  Key -149.61942 0 0 0 0 0 0 449.95837 0
+  Key 300.35571 7.4666667 0 0 0 0 476.00455 38.250366 0
+  Key 364.6355 8.0666666 0 0 0 0 64.250038 0 0
+  Behaviors 1 5
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 5
+}
+
+ShadowOptions 7
+
+AmbientColor 1 1 1
+AmbientIntensity 0.25
+
+AddLight
+LightName Light
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  2
+  Key -2 0 0 0 0 0 0 0 0
+  Key -2 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  2
+  Key 2 0 0 0 0 0 0 0 0
+  Key 2 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  2
+  Key -2 0 0 0 0 0 0 0 0
+  Key -2 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  2
+  Key 0.78539813 0 0 0 0 0 0 0 0
+  Key 0.78539813 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  2
+  Key 0.61086524 0 0 0 0 0 0 0 0
+  Key 0.61086524 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  2
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  2
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  2
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LightColor 1 1 1
+LightIntensity 1
+AffectCaustics 1
+LightType 0
+ShadowType 1
+ShadowColor 0 0 0
+
+AddCamera
+CameraName Camera
+ShowCamera 1 2
+SchematicPosition 2.400000 -1.600000
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 7.4666667 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  3
+  Key 0.55537504 0 0 0 0 0 0 -0.049998093 0
+  Key 0.50537509 7.4666667 0 0 0 0 -0.046280947 -0.0037190048 0
+  Key 0.50537509 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  3
+  Key -18.803112 0 0 0 0 0 0 18.802412 0
+  Key 0 7.4666667 0 0 0 0 17.404533 1.3985785 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  2
+  Key 0 7.4666667 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  2
+  Key 0 7.4666667 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  2
+  Key 0 7.4666667 0 0 0 0 0 0 0
+  Key 0 8.0666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ZoomFactor (envelope)
+{ Envelope
+  1
+  Key 1.5160003 0 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+ResolutionMultiplier 1.0
+FrameSize 640 360
+PixelAspect 1
+MaskPosition 0 0 640 480
+MotionBlur 0
+FieldRendering 0
+
+ApertureHeight 0.015
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 0.1
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 0.1569 0.3137
+SkyColor 0.4706 0.7059 0.9412
+GroundColor 0.1961 0.1569 0.1176
+NadirColor 0.3922 0.3137 0.2353
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+RayRecursionLimit 16
+RayTraceOptimization 1
+DataOverlayLabel  
+SaveRGB 0
+SaveAlpha 0
+
+ViewConfiguration 0
+DefineView 0
+ViewType 9
+ViewAimpoint 37.97497 16.79346 -36.70586
+ViewZoomFactor 0.25
+
+GridNumber 0
+GridSize 1
+CameraViewBG 1
+ShowMotionPath 1
+ShowFogRadius 0
+ShowFogEffect 1
+ShowSafeAreas 0
+ShowFieldChart 0
+OverlayColor 7
+
+CurrentObject 5
+CurrentLight 0
+CurrentCamera 0
+GraphEditorData
+{ GraphEd_Favorites
+}
+{ GE_Expression_Lib
+  1
+}

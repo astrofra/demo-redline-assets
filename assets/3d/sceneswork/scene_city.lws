@@ -1,0 +1,680 @@
+LWSC
+3
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+PreviewFirstFrame 0
+PreviewLastFrame 48
+PreviewFrameStep 1
+CurrentFrame 0
+FramesPerSecond 25
+Plugin MasterHandler 1 .SpreadsheetStandardBanks
+EndPlugin
+Plugin MasterHandler 2 SpreadsheetSceneManager
+{ IMP
+  1
+  { Workspace
+    "Default"
+    ShowLockedItems 1
+    SupplementalRows 1 0
+    MultiselectSimilarTypes 1
+    UseLayoutLocking 0
+    UseLayoutTimelineLocking 0
+    ItemLimitMode 1
+    ItemSortMode 0
+    UseItemFilter 0
+    ItemFilter "" 0 5
+    ShowFilterControls 1
+    ShowBanks 1
+    ShowTimeline 0
+    BankDivider 0.40000001
+    { Bank2
+      Class 1
+      PresetID 5f4c5053
+      Column 5f4c5053 0 100
+      Column 5f4c5053 1 50
+      Column 5f4c5053 2 65
+      Column 5f4c5053 3 65
+      Column 5f4c5053 4 50
+      Column 5f4c5053 5 90
+      Column 5f4c5053 6 130
+    }
+    TimelineDivider 150
+    TimelineZoom 2
+    TimelineRange 0 2.4000001
+  }
+  CurrentWorkspace 0
+}
+EndPlugin
+Plugin MasterHandler 3 SpreadsheetSceneManager
+{ IMP
+  1
+  { Workspace
+    "Default"
+    ShowLockedItems 1
+    SupplementalRows 1 0
+    MultiselectSimilarTypes 1
+    UseLayoutLocking 0
+    UseLayoutTimelineLocking 0
+    ItemLimitMode 1
+    ItemSortMode 0
+    UseItemFilter 0
+    ItemFilter "" 0 5
+    ShowFilterControls 1
+    ShowBanks 1
+    ShowTimeline 0
+    BankDivider 0.40000001
+    { Bank2
+      Class 1
+      PresetID 5f4c5053
+      Column 5f4c5053 0 100
+      Column 5f4c5053 1 50
+      Column 5f4c5053 2 65
+      Column 5f4c5053 3 65
+      Column 5f4c5053 4 50
+      Column 5f4c5053 5 90
+      Column 5f4c5053 6 130
+    }
+    TimelineDivider 150
+    TimelineZoom 2
+    TimelineRange 0 2.4000001
+  }
+  CurrentWorkspace 0
+}
+EndPlugin
+Plugin MasterHandler 4 SpreadsheetSceneManager
+{ IMP
+  1
+  { Workspace
+    "Default"
+    ShowLockedItems 1
+    SupplementalRows 1 0
+    MultiselectSimilarTypes 1
+    UseLayoutLocking 0
+    UseLayoutTimelineLocking 0
+    ItemLimitMode 1
+    ItemSortMode 0
+    UseItemFilter 0
+    ItemFilter "" 0 5
+    ShowFilterControls 1
+    ShowBanks 1
+    ShowTimeline 0
+    BankDivider 0.40000001
+    { Bank2
+      Class 1
+      PresetID 5f4c5053
+      Column 5f4c5053 0 100
+      Column 5f4c5053 1 50
+      Column 5f4c5053 2 65
+      Column 5f4c5053 3 65
+      Column 5f4c5053 4 50
+      Column 5f4c5053 5 90
+      Column 5f4c5053 6 130
+    }
+    TimelineDivider 150
+    TimelineZoom 2
+    TimelineRange 0 2.4000001
+  }
+  CurrentWorkspace 0
+}
+EndPlugin
+
+LoadObjectLayer 1 mesh_city_road.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_city_clouds.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_city_buildings.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_ship.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 15.287274 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 64.099998 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 32.205765 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 20 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 20 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 20 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ShadowOptions 7
+
+AddNullObject Cam
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 0.95999998 0 0 0 0 0 0 0
+  Key 0 1.92 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 0.95999998 0 0 0 0 0 0 0
+  Key 0 1.92 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 0.95999998 0 0 0 0 0 0 0
+  Key 0 1.92 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  3
+  Key -0.075328209 0 0 0 0 0 0 -0.29983085 0
+  Key -0.37524581 0.95999998 0 0 0 0 -0.32640514 -0.32640514 0
+  Key -0.72813851 1.92 0 0 0 0 -0.35279062 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 0.95999998 0 0 0 0 0 0 0
+  Key 0 1.92 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  3
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 0.95999998 0 0 0 0 0 0 0
+  Key 0 1.92 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  3
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.95999998 0 0 0 0 0 0 0
+  Key 1 1.92 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  3
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.95999998 0 0 0 0 0 0 0
+  Key 1 1.92 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  3
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.95999998 0 0 0 0 0 0 0
+  Key 1 1.92 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 48
+ShadowOptions 7
+
+AmbientColor 0.580392 0.541176 0.419608
+AmbientIntensity -0.5
+GlobalLightIntensity 0.5
+
+AddLight
+LightName Light
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 2 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -2 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0.78539813 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.61086524 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LightColor 1 1 1
+LightIntensity 1
+AffectDiffuse 0
+AffectSpecular 0
+AffectCaustics 1
+AffectOpenGL 0
+LightType 0
+ShadowType 1
+ShadowColor 0 0 0
+
+AddCamera
+CameraName Camera
+ShowCamera 1 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key 115.21306 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 30.299997 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -74.504707 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -0.72431189 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key -0.0034907637 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ZoomFactor 2.5
+ResolutionMultiplier .5
+FrameSize 800 600
+PixelAspect 1
+MaskPosition 0 0 640 480
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera
+ShowCamera 1 2
+SchematicPosition 0.600000 -0.400000
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key 140.26114 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 190.09985 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -142.71065 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -0.68416935 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.64402676 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 9.0846486e-009 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 32
+ParentItem 10000004
+ZoomFactor 2.5
+ResolutionMultiplier 1.0
+FrameSize 640 360
+PixelAspect 1
+MaskPosition 0 0 640 480
+MotionBlur 0
+FieldRendering 0
+
+ApertureHeight 0.0001
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 0.1
+
+SolidBackdrop 0
+BackdropColor 0.12549 0.282353 0.376471
+ZenithColor 0.12549 0.282353 0.376471
+SkyColor 0 0 0
+GroundColor 0 0 0
+NadirColor 0 0 0
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 1
+RayRecursionLimit 4
+RayTraceOptimization 1
+DataOverlayLabel  
+SaveRGB 0
+SaveAlpha 0
+
+ViewConfiguration 0
+DefineView 0
+ViewType 9
+ViewAimpoint -12.2 54.425 50.44999
+ViewZoomFactor 4
+
+GridNumber 0
+GridSize 10
+CameraViewBG 0
+ShowMotionPath 0
+ShowFogRadius 0
+ShowFogEffect 1
+ShowSafeAreas 0
+ShowFieldChart 0
+OverlayColor 7
+
+CurrentObject 4
+CurrentLight 0
+CurrentCamera 1
+GraphEditorData
+{ GraphEd_Favorites
+}
+{ GE_Expression_Lib
+  1
+  Expression "Spine2_H" "(pilot_ACS_3:Mesh.SpineCtrl.rot(Time - slid_SpineLag.pos(Time).x/Scene.fps).h * slid_SpineFactor.pos(Time).x  * (1-slid_AutoWalk.pos(Time).x)) + ((-pilot_ACS_3:Mesh.Root.rot(Time - (slid_WalkLag.pos(Time).x * 2)/Scene.fps).b * (1/6 * (slid_WalkFactor.pos(Time).x +1))) * slid_AutoWalk.pos(Time).x)" 0
+  Expression "Spine2_P" "(pilot_ACS_3:Mesh.SpineCtrl.rot(Time - slid_SpineLag.pos(Time).x/Scene.fps).p * (slid_SpineFactor.pos(Time).x))" 0
+  Expression "Spine2_B" "((pilot_ACS_3:Mesh.SpineCtrl.rot(Time - slid_SpineLag.pos(Time).x/Scene.fps).b * (slid_SpineFactor.pos(Time).x)) * (1-slid_AutoWalk.pos(Time).x)) + ((-pilot_ACS_3:Mesh.Root.rot(Time - (slid_WalkLag.pos(Time).x * 2)/Scene.fps).h * (1/6 * (slid_WalkFactor.pos(Time).x +1))) * slid_AutoWalk.pos(Time).x)" 0
+  Expression "Spine1_H" "(pilot_ACS_3:Mesh.SpineCtrl.rot(Time).h * (1-slid_AutoWalk.pos(Time).x)) + ((- pilot_ACS_3:Mesh.Root.rot(Time - slid_WalkLag.pos(Time).x/Scene.fps).b * (1/6 * (slid_WalkFactor.pos(Time).x +1))) * slid_AutoWalk.pos(Time).x)" 0
+  Expression "Spine1_P" "pilot_ACS_3:Mesh.SpineCtrl.rot(Time).p * (slid_SpineFactor.pos(Time).x)" 0
+  Expression "Spine1_B" "pilot_ACS_3:Mesh.SpineCtrl.rot(Time).b * (1- slid_AutoWalk.pos(Time).x) + ((-pilot_ACS_3:Mesh.Root.rot(Time - slid_WalkLag.pos(Time).x/Scene.fps).h * (1/6 * (slid_WalkFactor.pos(Time).x + 1))) * slid_AutoWalk.pos(Time).x)" 0
+  Expression "Spine3_H" "(pilot_ACS_3:Mesh.SpineCtrl.rot(Time - (slid_SpineLag.pos(Time).x * 2)/Scene.fps).h * slid_SpineFactor.pos(Time).x  * (1-slid_AutoWalk.pos(Time).x)) + ((-pilot_ACS_3:Mesh.Root.rot(Time - (slid_WalkLag.pos(Time).x * 3)/Scene.fps).b * (1/6 * (slid_WalkFactor.pos(Time).x +1))) * slid_AutoWalk.pos(Time).x)" 0
+  Expression "Spine3_P" "(pilot_ACS_3:Mesh.SpineCtrl.rot(Time - (slid_SpineLag.pos(Time).x * 2)/Scene.fps).p * (slid_SpineFactor.pos(Time).x))" 0
+  Expression "Spine3_B" "((pilot_ACS_3:Mesh.SpineCtrl.rot(Time - (slid_SpineLag.pos(Time).x * 2)/Scene.fps).b * (slid_SpineFactor.pos(Time).x)) * (1-slid_AutoWalk.pos(Time).x)) + ((-pilot_ACS_3:Mesh.Root.rot(Time - (slid_WalkLag.pos(Time).x * 3)/Scene.fps).h * (1/6 * (slid_WalkFactor.pos(Time).x +1))) * slid_AutoWalk.pos(Time).x)" 0
+}

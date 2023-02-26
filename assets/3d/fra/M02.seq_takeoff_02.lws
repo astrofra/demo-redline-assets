@@ -1,0 +1,821 @@
+LWSC
+3
+
+FirstFrame 1
+LastFrame 60
+FrameStep 1
+PreviewFirstFrame 0
+PreviewLastFrame 140
+PreviewFrameStep 1
+CurrentFrame 87
+FramesPerSecond 30
+
+LoadObjectLayer 1 mesh_astroport.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_astroport_sky.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  2
+  Key 0.050000001 0 0 0 0 0 0 0 0
+  Key 0.050000001 2 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  2
+  Key 0.019999994 0 0 0 0 0 0 0 0
+  Key 0.019999994 2 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  2
+  Key 0.050000001 0 0 0 0 0 0 0 0
+  Key 0.050000001 2 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 320
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_astroport_blk_rocket.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 3.7333333 3 0 0 0 0 0 0
+  Key 0 4.6666665 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  3
+  Key -0.27500007 0 3 0 0 0 0 0 0
+  Key -0.27500007 3.7333333 3 0 0 0 14.279998 3.5699995 0
+  Key 106.8 4.6666665 3 0 0 0 17.844687 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 3.7333333 3 0 0 0 0 0 0
+  Key 0 4.6666665 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 3.7333333 3 0 0 0 0 0 0
+  Key 0 4.6666665 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 3.7333333 3 0 0 0 0 0 0
+  Key 0 4.6666665 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 3.7333333 3 0 0 0 0 0 0
+  Key 0 4.6666665 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  3
+  Key 1 0 3 0 0 0 0 0 0
+  Key 1 3.7333333 3 0 0 0 0 0 0
+  Key 1 4.6666665 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  3
+  Key 1 0 3 0 0 0 0 0 0
+  Key 1 3.7333333 3 0 0 0 0 0 0
+  Key 1 4.6666665 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  3
+  Key 1 0 3 0 0 0 0 0 0
+  Key 1 3.7333333 3 0 0 0 0 0 0
+  Key 1 4.6666665 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 53
+ShadowOptions 7
+
+AddNullObject Cam
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  4
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Key 0 2.8 3 0 0 0 0 0 0
+  Key 0 4.6666665 0 0 0 0 0 0 0
+  Behaviors 5 5
+}
+Channel 1
+{ Envelope
+  4
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Key 0 2.8 3 0 0 0 0 0 0
+  Key 0 4.6666665 0 0 0 0 0 0 0
+  Behaviors 5 5
+}
+Channel 2
+{ Envelope
+  4
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Key 0 2.8 3 0 0 0 0 0 0
+  Key 0 4.6666665 0 0 0 0 0 0 0
+  Behaviors 5 5
+}
+Channel 3
+{ Envelope
+  4
+  Key 3.5709419 0 3 0 0 0 0 -0.62457877 0
+  Key 2.3527682 0.93333334 3 0 0 0 -0.41652131 -0.83304262 0
+  Key 2.199209 2.8 3 0 0 0 -1.2495759 -2.3997223 0
+  Key -2.4466765 4.6666665 0 0 0 0 -4.6451941 0 0
+  Behaviors 5 5
+}
+Channel 4
+{ Envelope
+  4
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Key 0 2.8 3 0 0 0 0 0 0
+  Key 0 4.6666665 0 0 0 0 0 0 0
+  Behaviors 5 5
+}
+Channel 5
+{ Envelope
+  4
+  Key -0.13962632 0 3 0 0 0 0 -0.0087231509 0
+  Key -0.14835207 0.93333334 3 0 0 0 -0.0058173239 -0.011634648 0
+  Key -0.1570783 2.8 3 0 0 0 -0.017452151 -0.021815114 0
+  Key -0.1919823 4.6666665 0 0 0 0 -0.03489881 0 0
+  Behaviors 5 5
+}
+Channel 6
+{ Envelope
+  4
+  Key 1 0 3 0 0 0 0 0 0
+  Key 1 0.93333334 3 0 0 0 0 0 0
+  Key 1 2.8 3 0 0 0 0 0 0
+  Key 1 4.6666665 0 0 0 0 0 0 0
+  Behaviors 5 5
+}
+Channel 7
+{ Envelope
+  4
+  Key 1 0 3 0 0 0 0 0 0
+  Key 1 0.93333334 3 0 0 0 0 0 0
+  Key 1 2.8 3 0 0 0 0 0 0
+  Key 1 4.6666665 0 0 0 0 0 0 0
+  Behaviors 5 5
+}
+Channel 8
+{ Envelope
+  4
+  Key 1 0 3 0 0 0 0 0 0
+  Key 1 0.93333334 3 0 0 0 0 0 0
+  Key 1 2.8 3 0 0 0 0 0 0
+  Key 1 4.6666665 0 0 0 0 0 0 0
+  Behaviors 5 5
+}
+
+LockedChannels 16
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_astroport_takeoff.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.66666669 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.66666669 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.66666669 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.66666669 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.66666669 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.66666669 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  5
+  Key 0.030000165 0 3 0 0 0 0 0 0
+  Key 0.030000165 0.66666669 3 0 0 0 0.14714287 0.058857147 0
+  Key 0.23600018 0.93333334 3 0 0 0 0.034250006 0.23975006 0
+  Key 0.30400023 2.8 3 0 0 0 0.91400021 0.91400021 0
+  Key 2.0640006 4.6666665 3 0 0 0 1.7597386 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  5
+  Key 0.030000165 0 3 0 0 0 0 0 0
+  Key 0.030000165 0.66666669 3 0 0 0 0.14714287 0.058857147 0
+  Key 0.23600018 0.93333334 3 0 0 0 0.034250006 0.23975006 0
+  Key 0.30400023 2.8 3 0 0 0 0.91400021 0.91400021 0
+  Key 2.0640006 4.6666665 3 0 0 0 1.7597386 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  5
+  Key 0.030000165 0 3 0 0 0 0 0 0
+  Key 0.030000165 0.66666669 3 0 0 0 0.14714287 0.058857147 0
+  Key 0.23600018 0.93333334 3 0 0 0 0.034250006 0.23975006 0
+  Key 0.30400023 2.8 3 0 0 0 0.91400021 0.91400021 0
+  Key 2.0640006 4.6666665 3 0 0 0 1.7597386 0 0
+  Behaviors 1 1
+}
+
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_astroport_takeoff_2.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  2
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 3.7333333 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  2
+  Key 0 0 3 0 0 0 0 4.7842498 0
+  Key 4.784606 3.7333333 3 0 0 0 4.7842498 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  2
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 3.7333333 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  2
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 3.7333333 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  2
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 3.7333333 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  2
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 3.7333333 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  3
+  Key 0.001 0 3 0 0 0 0 -0.99192619 0
+  Key 0.007999979 3.7333333 3 0 0 0 1.2288004 0.3072001 0
+  Key 2.5360005 4.6666665 3 0 0 0 2.5272484 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  3
+  Key 0.001 0 3 0 0 0 0 -0.99192619 0
+  Key 0.007999979 3.7333333 3 0 0 0 1.2288004 0.3072001 0
+  Key 2.5360005 4.6666665 3 0 0 0 2.5272484 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  3
+  Key 0.001 0 3 0 0 0 0 -0.99192619 0
+  Key 0.007999979 3.7333333 3 0 0 0 1.2288004 0.3072001 0
+  Key 2.5360005 4.6666665 3 0 0 0 2.5272484 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 5
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_astroport_takeoff_3.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.80000001 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  3
+  Key 1.6500008 0 3 0 0 0 0 0 0
+  Key 1.6500008 0.80000001 3 0 0 0 0 0 0
+  Key 1.6500008 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.80000001 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.80000001 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.80000001 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.80000001 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  5
+  Key 0.0079999194 0 3 0 0 0 0 0 0
+  Key 0.0079999194 0.80000001 3 0 0 0 0.32742867 0.054571446 0
+  Key 0.39000005 0.93333334 3 0 0 0 0.032533351 0.4554669 0
+  Key 0.49600017 2.8 3 0 0 0 3.4950004 3.4950004 0
+  Key 7.3800006 4.6666665 3 0 0 0 6.8829761 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  5
+  Key 0.0079999194 0 3 0 0 0 0 0 0
+  Key 0.0079999194 0.80000001 3 0 0 0 0.32742867 0.054571446 0
+  Key 0.39000005 0.93333334 3 0 0 0 0.032533351 0.4554669 0
+  Key 0.49600017 2.8 3 0 0 0 3.4950004 3.4950004 0
+  Key 7.3800006 4.6666665 3 0 0 0 6.8829761 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  5
+  Key 0.0079999194 0 3 0 0 0 0 0 0
+  Key 0.0079999194 0.80000001 3 0 0 0 0.32742867 0.054571446 0
+  Key 0.39000005 0.93333334 3 0 0 0 0.032533351 0.4554669 0
+  Key 0.49600017 2.8 3 0 0 0 3.4950004 3.4950004 0
+  Key 7.3800006 4.6666665 3 0 0 0 6.8829761 0 0
+  Behaviors 1 1
+}
+
+ShadowOptions 7
+
+LoadObjectLayer 1 mesh_astroport_redflow.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  4
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.66666669 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Key 0 3.8666666 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  5
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.66666669 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 -0.41458341 115.04348 0
+  Key 0 3.7333333 3 0 0 0 -4.7488647 -0.2261364 0
+  Key -4.9750009 3.8666666 3 0 0 0 -4.9745297 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  4
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.66666669 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Key 0 3.8666666 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.66666669 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.66666669 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  3
+  Key 0 0 3 0 0 0 0 0 0
+  Key 0 0.66666669 3 0 0 0 0 0 0
+  Key 0 0.93333334 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  4
+  Key 0.1460003 0 3 0 0 0 0 0 0
+  Key 0.1460003 0.66666669 3 0 0 0 0.32107186 0.12842874 0
+  Key 0.59550089 0.93333334 3 0 0 0 0.075478263 0.79252172 0
+  Key 1.0140003 3.7333333 3 0 0 0 0.4184579 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  4
+  Key 0.1460003 0 3 0 0 0 0 0 0
+  Key 0.1460003 0.66666669 3 0 0 0 0.32107186 0.12842874 0
+  Key 0.59550089 0.93333334 3 0 0 0 0.075478263 0.79252172 0
+  Key 1.0140003 3.7333333 3 0 0 0 0.4184579 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  4
+  Key 0.1460003 0 3 0 0 0 0 0 0
+  Key 0.1460003 0.66666669 3 0 0 0 0.32107186 0.12842874 0
+  Key 0.59550089 0.93333334 3 0 0 0 0.075478263 0.79252172 0
+  Key 1.0140003 3.7333333 3 0 0 0 0.4184579 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 320
+ShadowOptions 7
+
+AmbientColor 1 1 1
+AmbientIntensity 0.25
+
+AddLight
+LightName Light
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 2 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -2 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0.78539813 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.61086524 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LightColor 1 1 1
+LightIntensity 1
+AffectCaustics 1
+LightType 0
+ShadowType 1
+ShadowColor 0 0 0
+
+AddCamera
+CameraName Camera
+ShowCamera 1 2
+SchematicPosition 0.600000 -0.400000
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  3
+  Key -9.489357 0 3 0 0 0 0 0 0
+  Key -9.489357 3.7333333 3 0 0 0 0 0 0
+  Key -9.489357 4.6666665 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  3
+  Key 9.3750057 0 3 0 0 0 0 0 0
+  Key 9.3750057 3.7333333 3 0 0 0 0 0 0
+  Key 9.3750057 4.6666665 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  3
+  Key 14.323927 0 3 0 0 0 0 0 0
+  Key 14.323927 3.7333333 3 0 0 0 0 0 0
+  Key 14.323927 4.6666665 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  3
+  Key -3.7541935 0 3 0 0 0 0 0 0
+  Key -3.7541935 3.7333333 3 0 0 0 0.25411779 0.063529447 0
+  Key -3.3510277 4.6666665 3 0 0 0 0.31755272 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  3
+  Key 0.3909556 0 3 0 0 0 0 0 0
+  Key 0.3909556 3.7333333 3 0 0 0 -0.46355942 -0.11588985 0
+  Key -0.58293903 4.6666665 3 0 0 0 -0.57927686 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  3
+  Key 1.2104569e-008 0 3 0 0 0 0 0 0
+  Key 1.2104569e-008 3.7333333 3 0 0 0 0 0 0
+  Key 1.2104569e-008 4.6666665 3 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 32
+ParentItem 10000003
+ZoomFactor 2
+ResolutionMultiplier 1.0
+FrameSize 640 360
+PixelAspect 1
+MaskPosition 0 0 640 480
+MotionBlur 0
+FieldRendering 0
+
+ApertureHeight 0.015
+Antialiasing 0
+AdaptiveSampling 1
+AdaptiveThreshold 0.1
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 0.1569 0.3137
+SkyColor 0.4706 0.7059 0.9412
+GroundColor 0.1961 0.1569 0.1176
+NadirColor 0.3922 0.3137 0.2353
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+RayRecursionLimit 16
+RayTraceOptimization 1
+DataOverlayLabel  
+SaveRGB 0
+SaveAlpha 0
+
+ViewConfiguration 0
+DefineView 0
+ViewType 9
+ViewAimpoint 0 0 0
+ViewZoomFactor 0.25
+
+GridNumber 0
+GridSize 5
+CameraViewBG 0
+ShowMotionPath 1
+ShowFogRadius 1
+ShowFogEffect 1
+ShowSafeAreas 0
+ShowFieldChart 0
+OverlayColor 7
+
+CurrentObject 7
+CurrentLight 0
+CurrentCamera 0
+GraphEditorData
+{ GraphEd_Favorites
+}
+{ GE_Expression_Lib
+  1
+}

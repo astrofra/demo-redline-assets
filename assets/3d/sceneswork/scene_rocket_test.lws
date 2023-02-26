@@ -1,0 +1,2290 @@
+LWSC
+3
+
+FirstFrame 0
+LastFrame 0
+FrameStep 1
+PreviewFirstFrame 0
+PreviewLastFrame 60
+PreviewFrameStep 1
+CurrentFrame 0
+FramesPerSecond 25
+Plugin MasterHandler 1 .SpreadsheetStandardBanks
+EndPlugin
+Plugin MasterHandler 2 .SpreadsheetStandardBanks
+EndPlugin
+Plugin MasterHandler 3 .SpreadsheetStandardBanks
+EndPlugin
+Plugin MasterHandler 4 SpreadsheetSceneManager
+{ IMP
+  1
+  { Workspace
+    "Default"
+    ShowLockedItems 1
+    SupplementalRows 1 0
+    MultiselectSimilarTypes 1
+    UseLayoutLocking 0
+    UseLayoutTimelineLocking 0
+    ItemLimitMode 1
+    ItemSortMode 0
+    UseItemFilter 0
+    ItemFilter "" 0 5
+    ShowFilterControls 1
+    ShowBanks 1
+    ShowTimeline 0
+    BankDivider 0.40000001
+    { Bank2
+      Class 1
+      PresetID 5f4c5053
+      Column 5f4c5053 0 100
+      Column 5f4c5053 1 50
+      Column 5f4c5053 2 65
+      Column 5f4c5053 3 65
+      Column 5f4c5053 4 50
+      Column 5f4c5053 5 90
+      Column 5f4c5053 6 130
+    }
+    TimelineDivider 150
+    TimelineZoom 2
+    TimelineRange 0 2.4000001
+  }
+  CurrentWorkspace 0
+}
+EndPlugin
+
+LoadObjectLayer 2 temp/mesh_copter.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 6.6999989 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 6.6999989 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 6.6999989 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ShadowOptions 7
+
+AddNullObject Environment_Null
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -9.5521879 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 48
+ShadowOptions 7
+
+AddNullObject LightSizer
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 3.9100006 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 3.9100006 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 3.9100006 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ShadowOptions 7
+
+LoadObjectLayer 2 temp/mesh_rocket.lwo
+ShowObject 6 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 0.084000021 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 0.084000021 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 0.084000021 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ShadowOptions 7
+
+AmbientColor 0.615686 0.517647 0.384314
+AmbientIntensity -1
+NoiseReduction 1
+EnableRadiosity 1
+RadiosityType 2
+RadiosityIntensity -0.75
+RadiosityTolerance 0.25
+RadiosityRays 48
+RadiosityMinSpacing 0.25
+IndirectBounces 2
+
+AddLight
+LightName Environment1
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -80.318604 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 25.0502 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 54.050098 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 0.933366 0.974413 1
+LightIntensity 0.0958
+AffectSpecular 0
+AffectCaustics 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment2
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 47.2859 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 25.7148 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -84.278099 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 0.931735 0.9256 1
+LightIntensity 0.0208435
+AffectSpecular 0
+AffectOpenGL 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment3
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 22.7652 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 41.3209 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 88.172104 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 0.655284 0.783181 1
+LightIntensity 0.0578247
+AffectSpecular 0
+AffectOpenGL 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment4
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 65.998901 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 58.556904 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -47.066299 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 0.834188 0.915918 1
+LightIntensity 0.0577742
+AffectSpecular 0
+AffectOpenGL 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment5
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 67.313896 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -30.922401 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -67.176201 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 1 0.871583 0.830248
+LightIntensity 0.0116592
+AffectSpecular 0
+AffectOpenGL 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment6
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 78.311501 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 62.072403 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -3.78473 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 0.689067 0.816441 1
+LightIntensity 0.0606398
+AffectSpecular 0
+AffectOpenGL 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment7
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -97.641701 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 19.749399 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 8.7215405 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 1 0.979577 0.872682
+LightIntensity 0.144627
+AffectSpecular 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment8
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -32.979698 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 90.430496 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 27.1045 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 0.706057 0.817545 1
+LightIntensity 0.100496
+AffectSpecular 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment9
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -92.7995 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -22.277699 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -29.865499 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 1 0.870088 0.744519
+LightIntensity 0.0493275
+AffectSpecular 0
+AffectOpenGL 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment10
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -66.931099 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 71.492302 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -20.225801 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 0.890516 0.974692 1
+LightIntensity 0.146494
+AffectSpecular 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment11
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -46.541302 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -87.6586 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 12.2423 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 1 0.872394 0.833427
+LightIntensity 0.0153305
+AffectSpecular 0
+AffectOpenGL 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment12
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 75.733101 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -65.079407 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -5.40063 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 1 0.851033 0.82123
+LightIntensity 0.007227
+AffectSpecular 0
+AffectOpenGL 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment13
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 72.226601 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 45.018803 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 52.503597 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 0.686398 0.798745 1
+LightIntensity 0.0544475
+AffectSpecular 0
+AffectOpenGL 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment14
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 99.850204 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 2.98156 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 4.58849 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 1 0.771498 0.625988
+LightIntensity 0.0127385
+AffectSpecular 0
+AffectOpenGL 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment15
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -38.883701 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 25.865301 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 88.4254 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 0.805848 0.874891 1
+LightIntensity 0.0565698
+AffectSpecular 0
+AffectOpenGL 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment16
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -88.1446 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 23.6581 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -40.875801 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 1 0.879852 0.70097
+LightIntensity 0.201865
+AffectSpecular 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment17
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 56.840904 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -30.331501 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 76.4795 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 1 0.763462 0.700569
+LightIntensity 0.00762825
+AffectSpecular 0
+AffectOpenGL 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment18
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -57.471596 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 36.943001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -73.022095 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 1 0.939358 0.81351
+LightIntensity 0.157461
+AffectSpecular 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment19
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 40.283199 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 89.096001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 20.956301 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 0.640795 0.773456 1
+LightIntensity 0.0715668
+AffectSpecular 0
+AffectOpenGL 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Environment20
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -50.973 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -32.3433 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -79.722397 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 10 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+HController 1
+PController 1
+ParentItem 10000001
+TargetItem 10000001
+Plugin ItemMotionHandler 1 LW_Follower
+"268435458  1"
+"Channels 448  0 0 0  0 0 0  6 7 8"
+"TimeSlip 0.0000 Randomize 0.0000 PathSlip 0.0000 1"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 1.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+"Scale 10.0000 Add 0.0000"
+EndPlugin
+LightColor 1 0.955584 0.847092
+LightIntensity 0.067239
+AffectSpecular 0
+AffectOpenGL 0
+LightType 4
+LightQuality 2
+ShadowType 1
+ShadowColor 0 0 0
+
+AddCamera
+CameraName Camera
+ShowCamera 1 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key 3.9065006 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0.2084098 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -4.7217817 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -0.67544234 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key -0.1762782 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 640 480
+PixelAspect 1
+MaskPosition 0 0 640 480
+MotionBlur 0
+FieldRendering 0
+
+ApertureHeight 0.015
+Antialiasing 1
+EnhancedAA 1
+AdaptiveSampling 1
+AdaptiveThreshold 0.1
+
+SolidBackdrop 1
+BackdropColor 0.501961 0.501961 0.501961
+ZenithColor 0 0.1569 0.3137
+SkyColor 0.4706 0.7059 0.9412
+GroundColor 0.1961 0.1569 0.1176
+NadirColor 0.3922 0.3137 0.2353
+FogType 3
+FogMinDistance 5
+FogMaxDistance 30
+FogMinAmount 0
+FogMaxAmount 1
+FogColor 0.5098 0.5098 0.549
+BackdropFog 1
+DitherIntensity 1
+AnimatedDither 0
+Plugin ImageFilterHandler 1 LW_Bloom
+{ Options
+  3
+  { Settings
+    0
+    0
+    1
+    0
+    0
+    1
+    ""
+  }
+  { AlternatesTwo
+    0
+    0
+    0
+    0
+    ""
+  }
+  { Variants
+    { VariantParameter
+      3
+      0
+      { ParameterValue
+        0.64999998
+        0
+      }
+    }
+    { VariantParameter
+      3
+      0
+      { ParameterValue
+        0.25
+        0
+      }
+    }
+    { VariantParameter
+      3
+      0
+      { ParameterValue
+        50
+        0
+      }
+    }
+  }
+  { ColorTexture
+    0
+  }
+}
+EndPlugin
+PluginEnabled 0
+Plugin ImageFilterHandler 2 LW_Bloom
+{ Options
+  3
+  { Settings
+    0
+    0
+    1
+    0
+    0
+    1
+    ""
+  }
+  { AlternatesTwo
+    0
+    0
+    0
+    0
+    ""
+  }
+  { Variants
+    { VariantParameter
+      3
+      0
+      { ParameterValue
+        0.55000001
+        0
+      }
+    }
+    { VariantParameter
+      3
+      0
+      { ParameterValue
+        0.15000001
+        0
+      }
+    }
+    { VariantParameter
+      3
+      0
+      { ParameterValue
+        100
+        0
+      }
+    }
+  }
+  { ColorTexture
+    0
+  }
+}
+EndPlugin
+PluginEnabled 0
+Plugin ImageFilterHandler 3 LW_Virtual_Darkroom2.0
+2
+Basic 2 1 0.64999998 1 1 0 24 32 1 0.00039999999
+BWFilmPtX -4 -3.75 -3.5 -3.25 -3 -2.75 -2.5 -2.25 -2 -1.75 -1.5 -1.25 -1 -0.75 -0.5 -0.25 0 0 0 0 0
+BWFilmPtY 0.083300002 0.20829999 0.25 0.375 0.54170001 0.70829999 0.91670001 1.1667 1.375 1.5833 1.7917 1.9583 2.1666999 2.375 2.5416999 2.7083001 2.8333001 0 0 0 0
+BWPaperPtX -2.75 -2.5 -2.25 -2 -1.75 -1.5 -1.25 -1 0 0 0 0 0 0 0 0 0 0 0 0 0
+BWPaperPtY 0.074074 0.111111 0.175926 0.5 1.111111 1.675926 2.07407 2.1481481 0 0 0 0 0 0 0 0 0 0 0 0 0
+ColorFilmRedPtX -3 -2.75 -2.5 -2.25 -2 -1.75 -1.5 -1.25 -1 -0.75 -0.5 -0.25 0 0.25 0.5 0.75 1 0 0 0 0
+ColorFilmRedPtY 0.322 0.32800001 0.34400001 0.39399999 0.47600001 0.59799999 0.74800003 0.90600002 1.064 1.228 1.388 1.54 1.684 1.826 1.96 2.082 2.1960001 0 0 0 0
+ColorPaperRedPtX -3 -2.75 -2.5 -2.25 -2 -1.75 -1.5 -1.25 -1 -0.75 -0.5 -0.25 0 0 0 0 0 0 0 0 0
+ColorPaperRedPtY 0.088229999 0.088229999 0.088229999 0.088229999 0.088229999 0.17647 0.44117001 1.17647 2 2.5588 2.7058799 2.7058799 2.7058799 0 0 0 0 0 0 0 0
+ColorFilmGreenPtX -3 -2.75 -2.5 -2.25 -2 -1.75 -1.5 -1.25 -1 -0.75 -0.5 -0.25 0 0.25 0.5 0.75 1 0 0 0 0
+ColorFilmGreenPtY 0.68400002 0.68599999 0.69 0.73000002 0.81599998 0.94599998 1.102 1.266 1.4299999 1.5880001 1.744 1.902 2.0480001 2.184 2.3099999 2.428 2.5339999 0 0 0 0
+ColorPaperGreenPtX -3 -2.75 -2.5 -2.25 -2 -1.75 -1.5 -1.25 -1 -0.75 -0.5 -0.25 0 0 0 0 0 0 0 0 0
+ColorPaperGreenPtY 0.088229999 0.088229999 0.088229999 0.088229999 0.088229999 0.17647 0.44117001 1.08823 1.7647001 2.2939999 2.5294499 2.6029 2.6322999 0 0 0 0 0 0 0 0
+ColorFilmBluePtX -3 -2.75 -2.5 -2.25 -2 -1.75 -1.5 -1.25 -1 -0.75 -0.5 -0.25 0 0.25 0.5 0.75 1 0 0 0 0
+ColorFilmBluePtY 0.935 0.95499998 1.1015 1.11 1.23 1.375 1.545 1.715 1.89 2.0550001 2.2249999 2.3900001 2.5550001 2.7149999 2.865 3 3.125 0 0 0 0
+ColorPaperBluePtX -3 -2.75 -2.5 -2.25 -2 -1.75 -1.5 -1.25 -1 -0.75 -0.5 -0.25 0 0 0 0 0 0 0 0 0
+ColorPaperBluePtY 0.088229999 0.088229999 0.088229999 0.088229999 0.088229999 0.17647 0.44117001 1.08823 1.7647001 2.2939999 2.4852901 2.5441 2.57353 0 0 0 0 0 0 0 0
+Percent_RGB 0 0 0
+Negative_RGB 1 0 0 0 0.25 0 0 0 0.050000001
+Printing_RGB 0.94999999 0.029999999 0.02 0.029999999 0.94 0.029999999 0.02 0.029999999 0.94999999
+BWMTFPtX 1 60.900002 120.8 180.7 240.60001 300.5 360.39999 420.5 480.20001 540.09998 600 0 0 0 0 0 0 0 0 0 0
+BWMTFPtY 1 0.91759998 0.55379999 0.32730001 0.2316 0.1961 0.16060001 0.1252 0.089699998 0.054299999 0.02 0 0 0 0 0 0 0 0 0 0
+EndPlugin
+PluginEnabled 0
+
+RenderMode 2
+RayTraceEffects 1
+RayRecursionLimit 8
+RayTraceOptimization 1
+DataOverlayLabel  
+OutputFilenameFormat 1
+SaveRGB 1
+SaveRGBImagesPrefix I:\fra\demos\red_line\raws\cargo_2_
+RGBImageSaver LW_TIFF24(.tif)
+SaveAlpha 0
+
+ViewConfiguration 0
+DefineView 0
+ViewType 9
+ViewAimpoint 0 0 0
+ViewZoomFactor 1
+
+GridNumber 0
+GridSize 1
+CameraViewBG 0
+ShowMotionPath 1
+ShowFogRadius 1
+ShowFogEffect 1
+ShowSafeAreas 0
+ShowFieldChart 0
+OverlayColor 7
+
+CurrentObject 3
+CurrentLight 1
+CurrentCamera 0
+GraphEditorData
+{ GraphEd_Favorites
+}
+{ GE_Expression_Lib
+  1
+  Expression "Spine2_H" "(pilot_ACS_3:Mesh.SpineCtrl.rot(Time - slid_SpineLag.pos(Time).x/Scene.fps).h * slid_SpineFactor.pos(Time).x  * (1-slid_AutoWalk.pos(Time).x)) + ((-pilot_ACS_3:Mesh.Root.rot(Time - (slid_WalkLag.pos(Time).x * 2)/Scene.fps).b * (1/6 * (slid_WalkFactor.pos(Time).x +1))) * slid_AutoWalk.pos(Time).x)" 0
+  Expression "Spine2_P" "(pilot_ACS_3:Mesh.SpineCtrl.rot(Time - slid_SpineLag.pos(Time).x/Scene.fps).p * (slid_SpineFactor.pos(Time).x))" 0
+  Expression "Spine2_B" "((pilot_ACS_3:Mesh.SpineCtrl.rot(Time - slid_SpineLag.pos(Time).x/Scene.fps).b * (slid_SpineFactor.pos(Time).x)) * (1-slid_AutoWalk.pos(Time).x)) + ((-pilot_ACS_3:Mesh.Root.rot(Time - (slid_WalkLag.pos(Time).x * 2)/Scene.fps).h * (1/6 * (slid_WalkFactor.pos(Time).x +1))) * slid_AutoWalk.pos(Time).x)" 0
+  Expression "Spine1_H" "(pilot_ACS_3:Mesh.SpineCtrl.rot(Time).h * (1-slid_AutoWalk.pos(Time).x)) + ((- pilot_ACS_3:Mesh.Root.rot(Time - slid_WalkLag.pos(Time).x/Scene.fps).b * (1/6 * (slid_WalkFactor.pos(Time).x +1))) * slid_AutoWalk.pos(Time).x)" 0
+  Expression "Spine1_P" "pilot_ACS_3:Mesh.SpineCtrl.rot(Time).p * (slid_SpineFactor.pos(Time).x)" 0
+  Expression "Spine1_B" "pilot_ACS_3:Mesh.SpineCtrl.rot(Time).b * (1- slid_AutoWalk.pos(Time).x) + ((-pilot_ACS_3:Mesh.Root.rot(Time - slid_WalkLag.pos(Time).x/Scene.fps).h * (1/6 * (slid_WalkFactor.pos(Time).x + 1))) * slid_AutoWalk.pos(Time).x)" 0
+  Expression "Spine3_H" "(pilot_ACS_3:Mesh.SpineCtrl.rot(Time - (slid_SpineLag.pos(Time).x * 2)/Scene.fps).h * slid_SpineFactor.pos(Time).x  * (1-slid_AutoWalk.pos(Time).x)) + ((-pilot_ACS_3:Mesh.Root.rot(Time - (slid_WalkLag.pos(Time).x * 3)/Scene.fps).b * (1/6 * (slid_WalkFactor.pos(Time).x +1))) * slid_AutoWalk.pos(Time).x)" 0
+  Expression "Spine3_P" "(pilot_ACS_3:Mesh.SpineCtrl.rot(Time - (slid_SpineLag.pos(Time).x * 2)/Scene.fps).p * (slid_SpineFactor.pos(Time).x))" 0
+  Expression "Spine3_B" "((pilot_ACS_3:Mesh.SpineCtrl.rot(Time - (slid_SpineLag.pos(Time).x * 2)/Scene.fps).b * (slid_SpineFactor.pos(Time).x)) * (1-slid_AutoWalk.pos(Time).x)) + ((-pilot_ACS_3:Mesh.Root.rot(Time - (slid_WalkLag.pos(Time).x * 3)/Scene.fps).h * (1/6 * (slid_WalkFactor.pos(Time).x +1))) * slid_AutoWalk.pos(Time).x)" 0
+}
