@@ -1,5 +1,5 @@
 # Red Line
-3D and 2D assets of the demoscene production, [Red Line](https://www.pouet.net/prod.php?which=9110).
+3D and 2D assets of the demoscene production, [Red Line](https://www.pouet.net/prod.php?which=9110). The demo original ran on the [JFYE](https://www.pouet.net/prod.php?which=13418) 3D engine.
 
 ![Screenshot on Lightwave 6.0](img/screenshot.png)
 
